@@ -33,4 +33,4 @@ jobs:
           author_name: GitHub Actions
           author_email: actions@github.com
           message: "chore: update fixtures.ics [skip ci]"
-          add: "docs/fixtures.ics"
+          add: "docs/clive_owen_fixtures.ics"
