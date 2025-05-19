@@ -49,7 +49,8 @@ def fetch_fixtures():
 
 def build_ical(fixtures):
     cal = Calendar()
-    cal.extra.append(("PRODID", "-//Clive Owen Fixtures//github.com//"))
+    cal.add("PRODID", "-//Clive Owen Fixtures//github.com//")
+    cal.add("VERSION", "2.0")
     for dt, opp in fixtures:
         ev = Event()
         ev.name = f"Match Versus {opp}"

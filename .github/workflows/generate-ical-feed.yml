@@ -1,4 +1,4 @@
-name: Generate iCal feed
+name: generate-ical-feed
 
 on:
   schedule:
