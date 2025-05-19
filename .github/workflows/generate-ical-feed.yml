@@ -16,7 +16,7 @@ jobs:
       - name: Check out reposority
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0    # ensure full history so we can push
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -36,4 +36,4 @@ jobs:
         with:
           publish_branch: public
           publish_dir: docs
-          commit_message: chore: update fixtures [skip ci]
+          commit_message: chore: update fixtures
