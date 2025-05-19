@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Check out reposority
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0    # ensure full history so we can push
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,10 +31,9 @@ jobs:
       - name: Generate iCal file
         run: python generate_ics.py
 
-      - name: Commit & push fixtures.ics
-        uses: EndBug/add-and-commit@v9
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "chore: update fixtures.ics [skip ci]"
-          add: "docs/clive_owen_fixtures.ics"
+          publish_branch: public
+          publish_dir: docs
+          commit_message: chore: update fixtures [skip ci]
