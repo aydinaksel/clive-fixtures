@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out reposority
+      - name: Check out repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -36,4 +36,4 @@ jobs:
         with:
           publish_branch: public
           publish_dir: docs
-          commit_message: chore: update fixtures
+          commit_message: 'chore: update fixtures'
