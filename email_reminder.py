@@ -6,7 +6,7 @@ import ssl
 from email.message import EmailMessage
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
-from generate_ics import fetch_fixtures
+from generate_ics import fetch_team_fixtures
 
 TIME_ZONE = ZoneInfo("Europe/London")
 DAYS_BEFORE_REMINDER = 0
@@ -50,7 +50,7 @@ def main() -> None:
     """
     Fetch fixtures and send reminders for any fixtures happening today + DAYS_BEFORE_REMINDER.
     """
-    upcoming_fixtures = fetch_fixtures()
+    upcoming_fixtures = fetch_team_fixtures()
     current_datetime = datetime.now(TIME_ZONE)
     reminder_date = (current_datetime + timedelta(days=DAYS_BEFORE_REMINDER)).date()
 
