@@ -7155,58 +7155,6 @@
         },
         "fixtures": [
           {
-            "datetime": "2025-06-09 20:00:00+01:00",
-            "home": {
-              "name": "BORUSSIA TEETH",
-              "url": "/info/teams/751319"
-            },
-            "away": {
-              "name": "BOKO FC",
-              "url": "/info/teams/764966"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11850"
-          },
-          {
-            "datetime": "2025-06-09 20:30:00+01:00",
-            "home": {
-              "name": "BEDROCK",
-              "url": "/info/teams/764634"
-            },
-            "away": {
-              "name": "CLASS ON ASTRO TURF",
-              "url": "/info/teams/764967"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11850"
-          },
-          {
-            "datetime": "2025-06-09 21:00:00+01:00",
-            "home": {
-              "name": "ALL STARS",
-              "url": "/info/teams/764633"
-            },
-            "away": {
-              "name": "POWDER LEAGUE FC",
-              "url": "/info/teams/764595"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11850"
-          },
-          {
-            "datetime": "2025-06-09 21:30:00+01:00",
-            "home": {
-              "name": "THATS MASSIVE",
-              "url": "/info/teams/752576"
-            },
-            "away": {
-              "name": "NINJA SKRTALS",
-              "url": "/info/teams/776502"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11850"
-          },
-          {
             "datetime": "2025-06-16 20:00:00+01:00",
             "home": {
               "name": "BORUSSIA TEETH",
@@ -7779,6 +7727,58 @@
             "league_url": "/info/leagues/11850"
           },
           {
+            "datetime": "2025-06-09 20:00:00+01:00",
+            "home": {
+              "name": "BORUSSIA TEETH",
+              "url": "/info/teams/751319"
+            },
+            "away": {
+              "name": "BOKO FC",
+              "url": "/info/teams/764966"
+            },
+            "result": "5 - 1",
+            "league_url": "/info/leagues/11850"
+          },
+          {
+            "datetime": "2025-06-09 20:30:00+01:00",
+            "home": {
+              "name": "BEDROCK",
+              "url": "/info/teams/764634"
+            },
+            "away": {
+              "name": "CLASS ON ASTRO TURF",
+              "url": "/info/teams/764967"
+            },
+            "result": "9 - 2",
+            "league_url": "/info/leagues/11850"
+          },
+          {
+            "datetime": "2025-06-09 21:00:00+01:00",
+            "home": {
+              "name": "ALL STARS",
+              "url": "/info/teams/764633"
+            },
+            "away": {
+              "name": "POWDER LEAGUE FC",
+              "url": "/info/teams/764595"
+            },
+            "result": "3 - 0",
+            "league_url": "/info/leagues/11850"
+          },
+          {
+            "datetime": "2025-06-09 21:30:00+01:00",
+            "home": {
+              "name": "THATS MASSIVE",
+              "url": "/info/teams/752576"
+            },
+            "away": {
+              "name": "NINJA SKRTALS",
+              "url": "/info/teams/776502"
+            },
+            "result": "2 - 0",
+            "league_url": "/info/leagues/11850"
+          },
+          {
             "datetime": "2025-06-02 20:00:00+01:00",
             "home": {
               "name": "NINJA SKRTALS",
@@ -7886,19 +7886,6 @@
         "teams": {
           "BORUSSIA TEETH": [
             {
-              "datetime": "2025-06-09 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
               "datetime": "2025-06-16 20:00:00+01:00",
               "home": {
                 "name": "BORUSSIA TEETH",
@@ -8042,6 +8029,19 @@
               "league_url": "/info/leagues/11850"
             },
             {
+              "datetime": "2025-06-09 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "5 - 1",
+              "league_url": "/info/leagues/11850"
+            },
+            {
               "datetime": "2025-06-02 21:30:00+01:00",
               "home": {
                 "name": "BORUSSIA TEETH",
@@ -8068,388 +8068,7 @@
               "league_url": "/info/leagues/11850"
             }
           ],
-          "BOKO FC": [
-            {
-              "datetime": "2025-06-09 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-16 21:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 20:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-30 21:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-07 21:00:00+01:00",
-              "home": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-14 20:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-21 21:00:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-28 20:00:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-04 21:00:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-11 20:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-18 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-09-01 20:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-02 21:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": "4 - 0",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-05-19 20:30:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": "0 - 8",
-              "league_url": "/info/leagues/11850"
-            }
-          ],
-          "BEDROCK": [
-            {
-              "datetime": "2025-06-09 20:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-16 20:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-30 21:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-07 20:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-14 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-21 21:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-28 20:30:00+01:00",
-              "home": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-04 20:00:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-11 21:30:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-18 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-09-01 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-02 21:30:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": "2 - 6",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-05-19 21:00:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": "3 - 4",
-              "league_url": "/info/leagues/11850"
-            }
-          ],
           "CLASS ON ASTRO TURF": [
-            {
-              "datetime": "2025-06-09 20:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
             {
               "datetime": "2025-06-16 20:00:00+01:00",
               "home": {
@@ -8594,6 +8213,19 @@
               "league_url": "/info/leagues/11850"
             },
             {
+              "datetime": "2025-06-09 20:30:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": "9 - 2",
+              "league_url": "/info/leagues/11850"
+            },
+            {
               "datetime": "2025-06-02 20:30:00+01:00",
               "home": {
                 "name": "THATS MASSIVE",
@@ -8620,29 +8252,16 @@
               "league_url": "/info/leagues/11850"
             }
           ],
-          "ALL STARS": [
+          "BEDROCK": [
             {
-              "datetime": "2025-06-09 21:00:00+01:00",
+              "datetime": "2025-06-16 20:30:00+01:00",
               "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-16 21:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -8661,198 +8280,14 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-06-30 21:00:00+01:00",
-              "home": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-07 21:30:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-14 20:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-21 21:00:00+01:00",
+              "datetime": "2025-06-30 21:30:00+01:00",
               "home": {
                 "name": "BOKO FC",
                 "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-28 21:00:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-04 20:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-11 21:30:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
               },
               "away": {
                 "name": "BEDROCK",
                 "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-18 20:30:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-09-01 20:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-02 21:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": "4 - 0",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-05-19 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": "2 - 3",
-              "league_url": "/info/leagues/11850"
-            }
-          ],
-          "POWDER LEAGUE FC": [
-            {
-              "datetime": "2025-06-09 21:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-16 21:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-30 20:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -8871,62 +8306,23 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-14 21:30:00+01:00",
+              "datetime": "2025-07-14 21:00:00+01:00",
               "home": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-21 20:00:00+01:00",
+              "datetime": "2025-07-21 21:30:00+01:00",
               "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-28 21:00:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-04 21:00:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-11 20:00:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
                 "name": "BORUSSIA TEETH",
@@ -8936,14 +8332,53 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-18 20:00:00+01:00",
+              "datetime": "2025-07-28 20:30:00+01:00",
               "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
               },
               "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-04 20:00:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 21:30:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -8962,200 +8397,29 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-06-02 20:00:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": "2 - 9",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-05-19 21:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": "4 - 1",
-              "league_url": "/info/leagues/11850"
-            }
-          ],
-          "THATS MASSIVE": [
-            {
-              "datetime": "2025-06-09 21:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-16 21:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 20:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-30 20:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-07 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-14 21:00:00+01:00",
+              "datetime": "2025-06-09 20:30:00+01:00",
               "home": {
                 "name": "BEDROCK",
                 "url": "/info/teams/764634"
               },
               "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-21 20:30:00+01:00",
-              "home": {
                 "name": "CLASS ON ASTRO TURF",
                 "url": "/info/teams/764967"
               },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
+              "result": "9 - 2",
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-28 21:30:00+01:00",
+              "datetime": "2025-06-02 21:30:00+01:00",
               "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-04 20:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-11 20:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-18 20:00:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-09-01 21:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
                 "name": "BORUSSIA TEETH",
                 "url": "/info/teams/751319"
               },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-02 20:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
               "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
-              "result": "2 - 3",
+              "result": "2 - 6",
               "league_url": "/info/leagues/11850"
             },
             {
@@ -9174,19 +8438,6 @@
           ],
           "NINJA SKRTALS": [
             {
-              "datetime": "2025-06-09 21:30:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
               "datetime": "2025-06-16 20:30:00+01:00",
               "home": {
                 "name": "BEDROCK",
@@ -9330,6 +8581,19 @@
               "league_url": "/info/leagues/11850"
             },
             {
+              "datetime": "2025-06-09 21:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": "2 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
               "datetime": "2025-06-02 20:00:00+01:00",
               "home": {
                 "name": "NINJA SKRTALS",
@@ -9355,6 +8619,742 @@
               "result": "0 - 8",
               "league_url": "/info/leagues/11850"
             }
+          ],
+          "ALL STARS": [
+            {
+              "datetime": "2025-06-16 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-23 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-30 21:00:00+01:00",
+              "home": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-07 21:30:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-14 20:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-21 21:00:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-28 21:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-04 20:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 21:30:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 20:30:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-09-01 20:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": "3 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-02 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "4 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-05-19 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": "2 - 3",
+              "league_url": "/info/leagues/11850"
+            }
+          ],
+          "THATS MASSIVE": [
+            {
+              "datetime": "2025-06-16 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-23 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-30 20:30:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-07 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-14 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-21 20:30:00+01:00",
+              "home": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-28 21:30:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-04 20:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 20:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 20:00:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-09-01 21:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 21:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": "2 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-02 20:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": "2 - 3",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-05-19 21:00:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": "3 - 4",
+              "league_url": "/info/leagues/11850"
+            }
+          ],
+          "BOKO FC": [
+            {
+              "datetime": "2025-06-16 21:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-23 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-30 21:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-07 21:00:00+01:00",
+              "home": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-14 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-21 21:00:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-28 20:00:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-04 21:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 20:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-09-01 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "5 - 1",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-02 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "4 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-05-19 20:30:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "0 - 8",
+              "league_url": "/info/leagues/11850"
+            }
+          ],
+          "POWDER LEAGUE FC": [
+            {
+              "datetime": "2025-06-16 21:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-23 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-30 20:30:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-07 20:30:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-14 21:30:00+01:00",
+              "home": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-21 20:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-28 21:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-04 21:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 20:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 20:00:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-09-01 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": "3 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-02 20:00:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": "2 - 9",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-05-19 21:30:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": "4 - 1",
+              "league_url": "/info/leagues/11850"
+            }
           ]
         }
       },
@@ -9367,58 +9367,6 @@
           "address": "Panfield Lane, BRAINTREE, CM7 1FF, UK"
         },
         "fixtures": [
-          {
-            "datetime": "2025-06-09 20:00:00+01:00",
-            "home": {
-              "name": "SLICE THE DICE",
-              "url": "/info/teams/775517"
-            },
-            "away": {
-              "name": "WHOSE YOUR DADDY",
-              "url": "/info/teams/776213"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11851"
-          },
-          {
-            "datetime": "2025-06-09 20:30:00+01:00",
-            "home": {
-              "name": "NETSIX & CHILL",
-              "url": "/info/teams/750022"
-            },
-            "away": {
-              "name": "RUSTIC ARMS FC",
-              "url": "/info/teams/775915"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11851"
-          },
-          {
-            "datetime": "2025-06-09 21:00:00+01:00",
-            "home": {
-              "name": "ONLYFINS",
-              "url": "/info/teams/753986"
-            },
-            "away": {
-              "name": "CRYSTAL PHALLUS",
-              "url": "/info/teams/755984"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11851"
-          },
-          {
-            "datetime": "2025-06-09 21:30:00+01:00",
-            "home": {
-              "name": "ABCDE FC",
-              "url": "/info/teams/752617"
-            },
-            "away": {
-              "name": "WARNOCK N RUN",
-              "url": "/info/teams/766805"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11851"
-          },
           {
             "datetime": "2025-06-16 20:00:00+01:00",
             "home": {
@@ -10200,6 +10148,58 @@
             "league_url": "/info/leagues/11851"
           },
           {
+            "datetime": "2025-06-09 20:00:00+01:00",
+            "home": {
+              "name": "SLICE THE DICE",
+              "url": "/info/teams/775517"
+            },
+            "away": {
+              "name": "WHOSE YOUR DADDY",
+              "url": "/info/teams/776213"
+            },
+            "result": "4 - 0",
+            "league_url": "/info/leagues/11851"
+          },
+          {
+            "datetime": "2025-06-09 20:30:00+01:00",
+            "home": {
+              "name": "NETSIX & CHILL",
+              "url": "/info/teams/750022"
+            },
+            "away": {
+              "name": "RUSTIC ARMS FC",
+              "url": "/info/teams/775915"
+            },
+            "result": "2 - 8",
+            "league_url": "/info/leagues/11851"
+          },
+          {
+            "datetime": "2025-06-09 21:00:00+01:00",
+            "home": {
+              "name": "ONLYFINS",
+              "url": "/info/teams/753986"
+            },
+            "away": {
+              "name": "CRYSTAL PHALLUS",
+              "url": "/info/teams/755984"
+            },
+            "result": "0 - 7",
+            "league_url": "/info/leagues/11851"
+          },
+          {
+            "datetime": "2025-06-09 21:30:00+01:00",
+            "home": {
+              "name": "ABCDE FC",
+              "url": "/info/teams/752617"
+            },
+            "away": {
+              "name": "WARNOCK N RUN",
+              "url": "/info/teams/766805"
+            },
+            "result": "0 - 4",
+            "league_url": "/info/leagues/11851"
+          },
+          {
             "datetime": "2025-06-02 20:00:00+01:00",
             "home": {
               "name": "NETSIX & CHILL",
@@ -10305,38 +10305,12 @@
           }
         ],
         "teams": {
-          "SLICE THE DICE": [
+          "ABCDE FC": [
             {
-              "datetime": "2025-06-09 20:00:00+01:00",
+              "datetime": "2025-06-16 20:00:00+01:00",
               "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-16 21:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-23 21:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
               },
               "away": {
                 "name": "ONLYFINS",
@@ -10346,618 +10320,14 @@
               "league_url": "/info/leagues/11851"
             },
             {
-              "datetime": "2025-06-30 21:30:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-07 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-21 20:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-28 20:30:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 21:30:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-18 21:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-01 21:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-08 20:00:00+01:00",
+              "datetime": "2025-06-23 20:00:00+01:00",
               "home": {
                 "name": "WAYNE CHOONEY",
                 "url": "/info/teams/774895"
               },
               "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-15 20:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-29 20:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 20:00:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": "3 - 3",
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-05-19 21:00:00+01:00",
-              "home": {
                 "name": "ABCDE FC",
                 "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": "3 - 1",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "WHOSE YOUR DADDY": [
-            {
-              "datetime": "2025-06-09 20:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-16 21:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-23 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-30 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-07 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-14 21:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-28 21:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-18 21:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-01 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-08 20:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-15 20:00:00+01:00",
-              "home": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-22 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 20:30:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": "3 - 2",
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-05-19 21:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": "3 - 3",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "NETSIX & CHILL": [
-            {
-              "datetime": "2025-06-09 20:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-16 21:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-30 20:00:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-07 21:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-14 20:00:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-21 21:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-28 20:00:00+01:00",
-              "home": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 21:30:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-18 21:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-08 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-15 20:00:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-22 20:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-29 20:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 20:00:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": "3 - 3",
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-05-19 20:00:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": "1 - 2",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "RUSTIC ARMS FC": [
-            {
-              "datetime": "2025-06-09 20:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-23 21:30:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
               },
               "result": null,
               "league_url": "/info/leagues/11851"
@@ -10976,92 +10346,92 @@
               "league_url": "/info/leagues/11851"
             },
             {
-              "datetime": "2025-07-07 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-14 21:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-21 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-28 21:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 21:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-01 20:30:00+01:00",
+              "datetime": "2025-07-14 20:30:00+01:00",
               "home": {
                 "name": "CRYSTAL PHALLUS",
                 "url": "/info/teams/755984"
               },
               "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-21 21:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-28 20:30:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 21:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-18 20:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-01 21:30:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
               },
               "result": null,
               "league_url": "/info/leagues/11851"
@@ -11080,77 +10450,10 @@
               "league_url": "/info/leagues/11851"
             },
             {
-              "datetime": "2025-09-15 20:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
               "datetime": "2025-09-22 20:00:00+01:00",
               "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-29 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 21:30:00+01:00",
-              "home": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": "0 - 4",
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-05-19 20:30:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": "1 - 5",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "ONLYFINS": [
-            {
-              "datetime": "2025-06-09 21:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
               },
               "away": {
                 "name": "CRYSTAL PHALLUS",
@@ -11159,6 +10462,60 @@
               "result": null,
               "league_url": "/info/leagues/11851"
             },
+            {
+              "datetime": "2025-09-29 20:00:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 21:30:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": "0 - 4",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 20:30:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": "3 - 2",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-05-19 21:00:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": "3 - 1",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "ONLYFINS": [
             {
               "datetime": "2025-06-16 20:00:00+01:00",
               "home": {
@@ -11342,6 +10699,19 @@
               "league_url": "/info/leagues/11851"
             },
             {
+              "datetime": "2025-06-09 21:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": "0 - 7",
+              "league_url": "/info/leagues/11851"
+            },
+            {
               "datetime": "2025-05-19 20:30:00+01:00",
               "home": {
                 "name": "ONLYFINS",
@@ -11352,636 +10722,6 @@
                 "url": "/info/teams/775915"
               },
               "result": "1 - 5",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "CRYSTAL PHALLUS": [
-            {
-              "datetime": "2025-06-09 21:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-16 20:30:00+01:00",
-              "home": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-23 21:30:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-07 21:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-14 20:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-21 20:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-28 21:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 21:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-18 20:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-01 20:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-15 20:00:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-22 20:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-29 20:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 21:00:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": "1 - 6",
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-05-19 21:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": "3 - 3",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "ABCDE FC": [
-            {
-              "datetime": "2025-06-09 21:30:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-16 20:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-23 20:00:00+01:00",
-              "home": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-30 21:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-14 20:30:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-21 21:30:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-28 20:30:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 21:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-18 20:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-01 21:30:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-08 20:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-22 20:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-29 20:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 20:30:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": "3 - 2",
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-05-19 21:00:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": "3 - 1",
-              "league_url": "/info/leagues/11851"
-            }
-          ],
-          "WARNOCK N RUN": [
-            {
-              "datetime": "2025-06-09 21:30:00+01:00",
-              "home": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-16 21:00:00+01:00",
-              "home": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-23 20:30:00+01:00",
-              "home": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-30 20:00:00+01:00",
-              "home": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-07 21:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-14 21:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-07-21 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-04 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-11 21:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "ABCDE FC",
-                "url": "/info/teams/752617"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-08-18 21:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "SLICE THE DICE",
-                "url": "/info/teams/775517"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-01 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "WHOSE YOUR DADDY",
-                "url": "/info/teams/776213"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-08 20:00:00+01:00",
-              "home": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "away": {
-                "name": "NETSIX & CHILL",
-                "url": "/info/teams/750022"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-15 20:00:00+01:00",
-              "home": {
-                "name": "ONLYFINS",
-                "url": "/info/teams/753986"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-22 20:55:00+01:00",
-              "home": {
-                "name": "WAYNE CHOONEY",
-                "url": "/info/teams/774895"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-09-29 20:00:00+01:00",
-              "home": {
-                "name": "RUSTIC ARMS FC",
-                "url": "/info/teams/775915"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11851"
-            },
-            {
-              "datetime": "2025-06-02 21:00:00+01:00",
-              "home": {
-                "name": "CRYSTAL PHALLUS",
-                "url": "/info/teams/755984"
-              },
-              "away": {
-                "name": "WARNOCK N RUN",
-                "url": "/info/teams/766805"
-              },
-              "result": "1 - 6",
               "league_url": "/info/leagues/11851"
             }
           ],
@@ -12192,6 +10932,1266 @@
                 "url": "/info/teams/774895"
               },
               "result": "1 - 2",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "CRYSTAL PHALLUS": [
+            {
+              "datetime": "2025-06-16 20:30:00+01:00",
+              "home": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-23 21:30:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-07 21:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-14 20:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-21 20:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-28 21:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 21:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-18 20:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-01 20:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-15 20:00:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-22 20:00:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-29 20:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 21:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": "0 - 7",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 21:00:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": "1 - 6",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-05-19 21:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": "3 - 3",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "SLICE THE DICE": [
+            {
+              "datetime": "2025-06-16 21:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-23 21:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-30 21:30:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-07 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-21 20:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-28 20:30:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 21:30:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-18 21:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-01 21:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-08 20:00:00+01:00",
+              "home": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-15 20:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-29 20:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 20:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": "4 - 0",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 20:00:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": "3 - 3",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-05-19 21:00:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": "3 - 1",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "WARNOCK N RUN": [
+            {
+              "datetime": "2025-06-16 21:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-23 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-30 20:00:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-07 21:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-14 21:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-21 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 21:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-18 21:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-01 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-08 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-15 20:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-22 20:55:00+01:00",
+              "home": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-29 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 21:30:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": "0 - 4",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 21:00:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": "1 - 6",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "NETSIX & CHILL": [
+            {
+              "datetime": "2025-06-16 21:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-30 20:00:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-07 21:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-14 20:00:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-21 21:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-28 20:00:00+01:00",
+              "home": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 21:30:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-18 21:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-08 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-15 20:00:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-22 20:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-29 20:00:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 20:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": "2 - 8",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 20:00:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": "3 - 3",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-05-19 20:00:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "result": "1 - 2",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "WHOSE YOUR DADDY": [
+            {
+              "datetime": "2025-06-16 21:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-23 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-30 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-07 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-14 21:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-28 21:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 20:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-18 21:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-01 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-08 20:00:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-15 20:00:00+01:00",
+              "home": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-22 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 20:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": "4 - 0",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 20:30:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": "3 - 2",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-05-19 21:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": "3 - 3",
+              "league_url": "/info/leagues/11851"
+            }
+          ],
+          "RUSTIC ARMS FC": [
+            {
+              "datetime": "2025-06-23 21:30:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-30 21:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-07 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-14 21:30:00+01:00",
+              "home": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-21 20:00:00+01:00",
+              "home": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-07-28 21:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-04 21:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-08-11 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-01 20:30:00+01:00",
+              "home": {
+                "name": "CRYSTAL PHALLUS",
+                "url": "/info/teams/755984"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-08 20:00:00+01:00",
+              "home": {
+                "name": "ABCDE FC",
+                "url": "/info/teams/752617"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-15 20:00:00+01:00",
+              "home": {
+                "name": "SLICE THE DICE",
+                "url": "/info/teams/775517"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-22 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "WHOSE YOUR DADDY",
+                "url": "/info/teams/776213"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-09-29 20:00:00+01:00",
+              "home": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "away": {
+                "name": "WARNOCK N RUN",
+                "url": "/info/teams/766805"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-09 20:30:00+01:00",
+              "home": {
+                "name": "NETSIX & CHILL",
+                "url": "/info/teams/750022"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": "2 - 8",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-06-02 21:30:00+01:00",
+              "home": {
+                "name": "WAYNE CHOONEY",
+                "url": "/info/teams/774895"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": "0 - 4",
+              "league_url": "/info/leagues/11851"
+            },
+            {
+              "datetime": "2025-05-19 20:30:00+01:00",
+              "home": {
+                "name": "ONLYFINS",
+                "url": "/info/teams/753986"
+              },
+              "away": {
+                "name": "RUSTIC ARMS FC",
+                "url": "/info/teams/775915"
+              },
+              "result": "1 - 5",
               "league_url": "/info/leagues/11851"
             }
           ]
