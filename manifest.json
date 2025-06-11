@@ -7170,12 +7170,12 @@
           {
             "datetime": "2025-06-16 20:30:00+01:00",
             "home": {
-              "name": "BEDROCK",
-              "url": "/info/teams/764634"
+              "name": "BOKO FC",
+              "url": "/info/teams/764966"
             },
             "away": {
-              "name": "NINJA SKRTALS",
-              "url": "/info/teams/776502"
+              "name": "POWDER LEAGUE FC",
+              "url": "/info/teams/764595"
             },
             "result": null,
             "league_url": "/info/leagues/11850"
@@ -7189,19 +7189,6 @@
             "away": {
               "name": "THATS MASSIVE",
               "url": "/info/teams/752576"
-            },
-            "result": null,
-            "league_url": "/info/leagues/11850"
-          },
-          {
-            "datetime": "2025-06-16 21:30:00+01:00",
-            "home": {
-              "name": "BOKO FC",
-              "url": "/info/teams/764966"
-            },
-            "away": {
-              "name": "POWDER LEAGUE FC",
-              "url": "/info/teams/764595"
             },
             "result": null,
             "league_url": "/info/leagues/11850"
@@ -8252,29 +8239,29 @@
               "league_url": "/info/leagues/11850"
             }
           ],
-          "BEDROCK": [
+          "BOKO FC": [
             {
               "datetime": "2025-06-16 20:30:00+01:00",
               "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
               },
               "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-06-23 21:00:00+01:00",
+              "datetime": "2025-06-23 20:30:00+01:00",
               "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
               },
               "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -8293,198 +8280,14 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-07 20:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-14 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-21 21:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-28 20:30:00+01:00",
+              "datetime": "2025-07-07 21:00:00+01:00",
               "home": {
                 "name": "CLASS ON ASTRO TURF",
                 "url": "/info/teams/764967"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-04 20:00:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-11 21:30:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-18 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
               },
               "away": {
                 "name": "BOKO FC",
                 "url": "/info/teams/764966"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-09-01 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-09 20:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": "9 - 2",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-02 21:30:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": "2 - 6",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-05-19 21:00:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "result": "3 - 4",
-              "league_url": "/info/leagues/11850"
-            }
-          ],
-          "NINJA SKRTALS": [
-            {
-              "datetime": "2025-06-16 20:30:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 21:30:00+01:00",
-              "home": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-30 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-07 21:30:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -8503,6 +8306,190 @@
               "league_url": "/info/leagues/11850"
             },
             {
+              "datetime": "2025-07-21 21:00:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-28 20:00:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-04 21:00:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 20:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-09-01 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "5 - 1",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-02 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "4 - 0",
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-05-19 20:30:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "result": "0 - 8",
+              "league_url": "/info/leagues/11850"
+            }
+          ],
+          "POWDER LEAGUE FC": [
+            {
+              "datetime": "2025-06-16 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-23 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-30 20:30:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-07 20:30:00+01:00",
+              "home": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-14 21:30:00+01:00",
+              "home": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
               "datetime": "2025-07-21 20:00:00+01:00",
               "home": {
                 "name": "POWDER LEAGUE FC",
@@ -8516,49 +8503,36 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-28 21:30:00+01:00",
+              "datetime": "2025-07-28 21:00:00+01:00",
               "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
               "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-04 20:00:00+01:00",
+              "datetime": "2025-08-04 21:00:00+01:00",
               "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
               "away": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-11 21:00:00+01:00",
+              "datetime": "2025-08-11 20:00:00+01:00",
               "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-08-18 21:30:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
               "away": {
                 "name": "BORUSSIA TEETH",
@@ -8568,29 +8542,42 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-09-01 20:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-09 21:30:00+01:00",
+              "datetime": "2025-08-18 20:00:00+01:00",
               "home": {
                 "name": "THATS MASSIVE",
                 "url": "/info/teams/752576"
               },
               "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
-              "result": "2 - 0",
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-09-01 21:00:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 21:00:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": "3 - 0",
               "league_url": "/info/leagues/11850"
             },
             {
@@ -8607,16 +8594,16 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-05-19 20:30:00+01:00",
+              "datetime": "2025-05-19 21:30:00+01:00",
               "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
               "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
               },
-              "result": "0 - 8",
+              "result": "4 - 1",
               "league_url": "/info/leagues/11850"
             }
           ],
@@ -8988,29 +8975,16 @@
               "league_url": "/info/leagues/11850"
             }
           ],
-          "BOKO FC": [
+          "BEDROCK": [
             {
-              "datetime": "2025-06-16 21:30:00+01:00",
+              "datetime": "2025-06-23 21:00:00+01:00",
               "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 20:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -9029,49 +9003,36 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-07 21:00:00+01:00",
+              "datetime": "2025-07-07 20:30:00+01:00",
               "home": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
               },
               "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-14 20:30:00+01:00",
+              "datetime": "2025-07-14 21:00:00+01:00",
               "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-21 21:00:00+01:00",
+              "datetime": "2025-07-21 21:30:00+01:00",
               "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-28 20:00:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
                 "name": "BORUSSIA TEETH",
@@ -9081,27 +9042,40 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-04 21:00:00+01:00",
+              "datetime": "2025-07-28 20:30:00+01:00",
               "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
               },
               "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-11 20:30:00+01:00",
+              "datetime": "2025-08-04 20:00:00+01:00",
               "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-11 21:30:00+01:00",
+              "home": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -9120,120 +9094,107 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-09-01 20:30:00+01:00",
+              "datetime": "2025-09-01 21:00:00+01:00",
               "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "POWDER LEAGUE FC",
+                "url": "/info/teams/764595"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 20:30:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "away": {
                 "name": "CLASS ON ASTRO TURF",
                 "url": "/info/teams/764967"
               },
-              "result": null,
+              "result": "9 - 2",
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-06-09 20:00:00+01:00",
+              "datetime": "2025-06-02 21:30:00+01:00",
               "home": {
                 "name": "BORUSSIA TEETH",
                 "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": "5 - 1",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-02 21:00:00+01:00",
-              "home": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": "4 - 0",
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-05-19 20:30:00+01:00",
-              "home": {
-                "name": "NINJA SKRTALS",
-                "url": "/info/teams/776502"
-              },
-              "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "result": "0 - 8",
-              "league_url": "/info/leagues/11850"
-            }
-          ],
-          "POWDER LEAGUE FC": [
-            {
-              "datetime": "2025-06-16 21:30:00+01:00",
-              "home": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-23 20:00:00+01:00",
-              "home": {
-                "name": "BORUSSIA TEETH",
-                "url": "/info/teams/751319"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-30 20:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "away": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-07-07 20:30:00+01:00",
-              "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
               },
               "away": {
                 "name": "BEDROCK",
                 "url": "/info/teams/764634"
               },
-              "result": null,
+              "result": "2 - 6",
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-14 21:30:00+01:00",
+              "datetime": "2025-05-19 21:00:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "result": "3 - 4",
+              "league_url": "/info/leagues/11850"
+            }
+          ],
+          "NINJA SKRTALS": [
+            {
+              "datetime": "2025-06-23 21:30:00+01:00",
               "home": {
                 "name": "CLASS ON ASTRO TURF",
                 "url": "/info/teams/764967"
               },
               "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-30 20:00:00+01:00",
+              "home": {
+                "name": "BORUSSIA TEETH",
+                "url": "/info/teams/751319"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-07 21:30:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "ALL STARS",
+                "url": "/info/teams/764633"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-07-14 20:30:00+01:00",
+              "home": {
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
@@ -9252,36 +9213,49 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-07-28 21:00:00+01:00",
+              "datetime": "2025-07-28 21:30:00+01:00",
               "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "away": {
-                "name": "ALL STARS",
-                "url": "/info/teams/764633"
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-04 21:00:00+01:00",
+              "datetime": "2025-08-04 20:00:00+01:00",
               "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "away": {
-                "name": "BOKO FC",
-                "url": "/info/teams/764966"
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
               },
               "result": null,
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-11 20:00:00+01:00",
+              "datetime": "2025-08-11 21:00:00+01:00",
               "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "away": {
+                "name": "CLASS ON ASTRO TURF",
+                "url": "/info/teams/764967"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-08-18 21:30:00+01:00",
+              "home": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "away": {
                 "name": "BORUSSIA TEETH",
@@ -9291,42 +9265,29 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-08-18 20:00:00+01:00",
-              "home": {
-                "name": "THATS MASSIVE",
-                "url": "/info/teams/752576"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-09-01 21:00:00+01:00",
-              "home": {
-                "name": "BEDROCK",
-                "url": "/info/teams/764634"
-              },
-              "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
-              },
-              "result": null,
-              "league_url": "/info/leagues/11850"
-            },
-            {
-              "datetime": "2025-06-09 21:00:00+01:00",
+              "datetime": "2025-09-01 20:00:00+01:00",
               "home": {
                 "name": "ALL STARS",
                 "url": "/info/teams/764633"
               },
               "away": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
-              "result": "3 - 0",
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
+              "datetime": "2025-06-09 21:30:00+01:00",
+              "home": {
+                "name": "THATS MASSIVE",
+                "url": "/info/teams/752576"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": "2 - 0",
               "league_url": "/info/leagues/11850"
             },
             {
@@ -9343,16 +9304,16 @@
               "league_url": "/info/leagues/11850"
             },
             {
-              "datetime": "2025-05-19 21:30:00+01:00",
+              "datetime": "2025-05-19 20:30:00+01:00",
               "home": {
-                "name": "POWDER LEAGUE FC",
-                "url": "/info/teams/764595"
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
               },
               "away": {
-                "name": "CLASS ON ASTRO TURF",
-                "url": "/info/teams/764967"
+                "name": "BOKO FC",
+                "url": "/info/teams/764966"
               },
-              "result": "4 - 1",
+              "result": "0 - 8",
               "league_url": "/info/leagues/11850"
             }
           ]
@@ -10235,7 +10196,7 @@
               "name": "WARNOCK N RUN",
               "url": "/info/teams/766805"
             },
-            "result": "1 - 6",
+            "result": "1 - 7",
             "league_url": "/info/leagues/11851"
           },
           {
@@ -11128,7 +11089,7 @@
                 "name": "WARNOCK N RUN",
                 "url": "/info/teams/766805"
               },
-              "result": "1 - 6",
+              "result": "1 - 7",
               "league_url": "/info/leagues/11851"
             },
             {
@@ -11561,7 +11522,7 @@
                 "name": "WARNOCK N RUN",
                 "url": "/info/teams/766805"
               },
-              "result": "1 - 6",
+              "result": "1 - 7",
               "league_url": "/info/leagues/11851"
             }
           ],
