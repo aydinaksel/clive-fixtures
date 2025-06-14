@@ -6164,6 +6164,19 @@
             "league_url": "/info/leagues/11850"
           },
           {
+            "datetime": "2025-06-16 21:30:00+01:00",
+            "home": {
+              "name": "BEDROCK",
+              "url": "/info/teams/764634"
+            },
+            "away": {
+              "name": "NINJA SKRTALS",
+              "url": "/info/teams/776502"
+            },
+            "result": null,
+            "league_url": "/info/leagues/11850"
+          },
+          {
             "datetime": "2025-06-23 20:00:00+01:00",
             "home": {
               "name": "BORUSSIA TEETH",
@@ -7947,6 +7960,19 @@
           ],
           "BEDROCK": [
             {
+              "datetime": "2025-06-16 21:30:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
+            {
               "datetime": "2025-06-23 21:00:00+01:00",
               "home": {
                 "name": "BEDROCK",
@@ -8117,6 +8143,19 @@
             }
           ],
           "NINJA SKRTALS": [
+            {
+              "datetime": "2025-06-16 21:30:00+01:00",
+              "home": {
+                "name": "BEDROCK",
+                "url": "/info/teams/764634"
+              },
+              "away": {
+                "name": "NINJA SKRTALS",
+                "url": "/info/teams/776502"
+              },
+              "result": null,
+              "league_url": "/info/leagues/11850"
+            },
             {
               "datetime": "2025-06-23 21:30:00+01:00",
               "home": {
